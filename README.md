@@ -1,5 +1,6 @@
-## Michael.
+## Debright Dev.
 
-web dev, Saas & product.
+Building software as a web developer, creating dynamic web applications and enhancing user experiences.
 
-Determined to succeed :)
+Determined to succeed ✖
+Succeeded ✓
