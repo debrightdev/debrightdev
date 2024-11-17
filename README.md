@@ -1,6 +1,6 @@
-## Debright Dev.
+## Debright Michael.
 
-Building software as a web developer, creating dynamic web applications and enhancing user experiences.
+Building software as a Software Engineer, creating dynamic web applications and enhancing user experiences.
 
 Determined to succeed ✖
 Succeeded ✓
