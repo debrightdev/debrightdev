@@ -1,4 +1,4 @@
-## Debright Michael.
+## Augustine Michael.
 
 Building software as a Software Engineer, creating dynamic web applications and enhancing user experiences.
 
