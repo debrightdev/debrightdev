@@ -1,4 +1,4 @@
-## Augustine Michael.
+## Augustine.
 
 Building software as a Software Engineer, creating dynamic web applications and enhancing user experiences.
 
