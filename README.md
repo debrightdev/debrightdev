@@ -27,3 +27,7 @@ Succeeded ✓
   </a>
 </p>
 
+## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debrightdev&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
