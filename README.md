@@ -1,5 +1,7 @@
 ## Augustine.
 
+![Twitter Follow](https://img.shields.io/twitter/follow/debrightdev?label=Connect%20With%20Me%20On%20Twitter&style=social)
+
 Somewhere building solutions.
 
 Determined to succeed ✖
